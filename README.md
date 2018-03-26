@@ -1,0 +1,2 @@
+# mysqljoins
+myysql joins practice 
